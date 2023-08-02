@@ -1,4 +1,4 @@
-![Ruan Github Stats](https://github-readme-stats-git-main-ruanpasta.vercel.app/api?username=ruanpasta&theme=tokyonight&show_icons=true)
+![Ruan Github Stats](https://github-readme-stats-git-main-ruanpasta.vercel.app/api?username=ruanpasta&theme=tokyonight&icons=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats-git-main-ruanpasta.vercel.app/api/top-langs/?username=ruanpasta&layout=compact&theme=tokyonight)
 
 <!--
