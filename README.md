@@ -1,4 +1,4 @@
-### Hi there 👋
+![Ruan Github Stats](https://github-readme-stats-git-main-ruanpasta.vercel.app/api?username=ruanpasta&theme=tokyonight&show_icons=true)
 
 <!--
 **ruanpasta/ruanpasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
