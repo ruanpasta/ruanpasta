@@ -1,5 +1,5 @@
 ![Ruan Github Stats](https://github-readme-stats-git-main-ruanpasta.vercel.app/api?username=ruanpasta&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats-git-main-ruanpasta.vercel.app//api/top-langs/?username=ruanpasta&layout=compact)
+![Top Langs](https://github-readme-stats-git-main-ruanpasta.vercel.app/api/top-langs/?username=ruanpasta&layout=compact&theme=tokyonight)
 
 <!--
 **ruanpasta/ruanpasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
