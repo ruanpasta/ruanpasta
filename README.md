@@ -14,9 +14,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on _Drugovich Labs_
+- 🔭 I’m currently working on _Brasil Paralelo_
 - 🌱 I’m currently learning _DevOps_
-- 🧑‍💼 I’m looking to work on _english speaking companies_
 - 💬 Ask me about _web development_
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ruanpasta" target="_blank">LinkedIn</a>
 
